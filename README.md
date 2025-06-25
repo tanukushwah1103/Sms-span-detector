@@ -1,4 +1,4 @@
-# Sms-span-detector
+# Sms-spam-detector
 Detects spam SMS messages using ML models like Naive Bayes &amp; SVM
 # SMS Spam Detector using Naive Bayes & SVM
 
